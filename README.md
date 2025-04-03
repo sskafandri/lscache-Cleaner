@@ -1,4 +1,4 @@
-# lscache-Cleaner
+# LScache-Cleaner
 
 clear_lscache.sh - Version 2
 
