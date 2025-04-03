@@ -24,7 +24,7 @@ Usage:
 ------
 Make the script executable and run it with your desired options:
 
-```wget https://raw.githubusercontent.com/thekugelblitz/clear_lscache/main/clear_lscache.sh -O clear_lscache.sh```
+```wget https://raw.githubusercontent.com/thekugelblitz/lscache-Cleaner/main/clear_lscache.sh -O clear_lscache.sh```
 
 
     chmod +x clear_lscache.sh
